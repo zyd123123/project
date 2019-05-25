@@ -1,0 +1,209 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
+body{
+    background-color: #F6F6F6;
+}
+/* 分割 */
+
+.top-box{
+    width: 7.5rem;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    margin: 0 auto;
+    background-color: white;
+    position: fixed;
+    top: 0;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 7.5rem;
+    height: 0.98rem;
+    position: fixed;
+    bottom: 0;
+}
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fafafa;
+    border-top: solid 1px #bfbfbf;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.tab .div1{
+    display: block;
+    width: 0.8rem;
+    height: 0.98rem;
+    color: #000;
+    padding-top: 0.15rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center
+}
+.div1 span{
+    font-size: 0.2rem;
+}
+.div2>i,.div2>span{
+    color: #ffcb3f;
+}
+.div1 i{
+    font-size:0.4rem;
+}
+
+/* 分割 */
+
+.tops{
+    width: 7.5rem;
+    height:0.78rem;
+    background-color: white;
+    margin-top: 0.88rem;
+}
+.tops .left i{
+    font-size: 0.24rem;
+    line-height: 0.78rem;
+    margin-left: 0.24rem;
+}
+.tops span{
+    font-size: 0.28rem;
+    line-height: 0.78rem;
+    margin-left: 2.65rem;
+}
+
+/* 分割 */
+
+.topz{
+    width: 7.02rem;
+    height:0.88rem;
+    background-color: #F6F6F6;
+    margin: 0 auto;
+    overflow:hidden;
+    position:relative 
+}
+.topz .left{
+    width: 0.04rem;
+    height:0.26rem;
+    background-color: yellow;
+    margin-top: 0.29rem;
+}
+.topz span{
+    font-size: 0.26rem;
+    position:absolute;
+    top: 0.24rem;
+    margin-left: 0.2rem;
+}
+/* 分割 */
+
+.phone{
+    width: 7.02rem;
+    height: 2.76rem;
+    background-color: white;
+    border-radius:0.1rem;
+    margin: 0 auto;
+    overflow:hidden;
+    position:relative;
+    box-shadow:0 0 0.1rem 0.01rem rgb(194, 194, 194);
+    margin-top: 0.2rem;
+}
+.phone .tu{
+    width: 1.86rem;
+    height: 1.31rem;
+    border-radius:0.05rem;
+    margin-top: 0.6rem;
+    margin-left: 0.3rem;
+    float: left;
+}
+.phone .tu img{
+    width:1.86rem;
+    height:1.31rem;
+}
+.phone .zi{
+    width: 2.97rem;
+    height: 1.31rem;
+    float: left;
+    margin-top: 0.6rem;
+}
+.phone .zi p{
+    font-size: 0.18rem;
+    color: rgb(153, 153, 153);
+    margin-top: 0.1rem;
+    margin-left:0.08rem;
+}
+.phone .zi pre{
+    font-size: 0.18rem;
+    color: rgb(153, 153, 153);
+    margin-top: 0.2rem;
+    margin-left:0.08rem;
+}
+.phone .zi span{
+    font-size: 0.24rem;
+    color: #000;
+    position:absolute;
+    top:0.65rem;
+    left:3.7rem;
+}
+.phone .zii{
+    width: 1.2rem;
+    height: 1.31rem;
+    float: right;
+    margin-top: 0.6rem;
+}
+.phone .zii p{
+    font-size:0.19rem;
+    color:black;
+    margin-top: 0.1rem;
+    margin-left: 0.2rem;
+}
+.phone .zii strong{
+    font-size:0.21rem;
+    color:black;
+    display: block;
+    margin-top: 0.55rem;
+}
+.phone .xx{
+    width: 1.6rem;
+    height: 0.44rem;
+    float: right;
+    margin-top: 0.15rem;
+    border-radius:0.05rem;
+    margin-right: 0.16rem;
+    border: 0.01rem solid #ffcb3f;
+    font-size: 0.24rem;
+    line-height: 0.44rem;
+    text-align:center;
+    color:#ffcb3f;
+}
+.phone .xxx{
+    position:absolute;
+    top:2.15rem;
+    right:2rem;
+    color:rgb(153, 153, 153);
+    font-size: 0.24rem;
+}
