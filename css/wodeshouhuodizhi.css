@@ -1,0 +1,116 @@
+.top-box{
+    width: 100%;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.header{
+        width: 7rem;
+        height: 0.8rem;
+        border: solid 1px #eeeeee;
+        margin-top: 0.88rem;    
+        margin-left: 0.24rem;
+}
+.header a{
+        display: flex;
+        justify-content:space-between;
+        color: black;
+        margin-top: 0.2rem;
+}
+
+.unit{
+    width: 7rem;
+    height: 1.35rem;
+    margin-left: 0.25rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.name{
+    width: 7rem;
+    height: 0.7rem;
+    display: flex;
+    align-items: center;
+}
+.name p{
+    margin-left:0.5rem;
+}
+.type{
+    width: 0.66rem;
+	height: 0.4rem;
+	background-color: #ffcb3f;
+    border-radius: 0.04rem;
+    margin-left:0.3rem;
+}
+.edit {
+    width: 7rem;
+    height: 0.3rem;
+    display: flex;
+    font-size: 0.22rem;
+}
+.edit i{
+    margin-left: 0.9rem;
+    color: #666666;
+}
+.fal{
+    width: 9.3rem;
+    margin-left:-2.1rem;
+    display: flex;
+}
+.delate{
+    width: 2.3rem;
+    height: 1.35rem;
+    float: right;
+}
+.box1{
+    width: 1.15rem;
+    height:1.35rem;
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.22rem;
+}
+.box2{
+    background-color:#ffcb3f;
+}
+.save{
+    width: 6.4rem;
+	height: 0.78rem;
+	background-color: #ffcb3f;
+    border-radius: 0.1rem;
+    margin-left:0.56rem;
+    margin-top: 4.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.save span {
+    color: white;
+    font-size: 0.3rem;
+}
+

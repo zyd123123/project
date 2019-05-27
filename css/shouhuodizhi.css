@@ -1,0 +1,185 @@
+.top-box{
+    width: 100%;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.header{
+        width: 7rem;
+        height: 0.8rem;
+        border: solid 1px #eeeeee;
+        margin-top: 0.88rem;    
+        margin-left: 0.24rem;
+}
+.header a{
+        display: flex;
+        justify-content:space-between;
+        color: black;
+        margin-top: 0.2rem;
+}
+.title {
+    width:7rem;
+    height: 8.5rem;
+    border-radius: 0.1rem;
+    margin-left: 0.24rem;
+    box-shadow: 0 0 0.2rem 0 
+        rgba(118, 118, 118, 0.17); 
+}
+.name{
+    width: 7rem;
+    height:1.6rem;
+}
+.unit{
+    width: 6.4rem;
+    height:0.8rem;
+    font-size: 0.3rem;
+    margin-left: 0.3rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.unit span{
+    display: inline-block;
+    margin-top: 0.3rem;
+}
+
+.unit1{
+    width: 6.4rem;
+    height:0.8rem;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+    margin-left: 0.3rem;
+    display: flex;
+}
+.unit1 p{
+    margin-top:0.3rem;
+}
+.unit1 span{
+    margin-left:1.4rem;
+    margin-top:0.3rem;
+}
+.tel{
+    width: 6.4rem;
+    height: 1rem;
+    margin-left: 0.3rem;
+    display:flex;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.tel p{
+    margin-top:0.5rem;
+}
+.tel span{
+    margin-left:1.4rem;
+    margin-top:0.5rem;
+}
+.city{
+    width: 6.4rem;
+    height: 1rem;
+    margin-left: 0.3rem;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.city select{
+    margin-left:0.8rem;
+    margin-top: 0.5rem;
+
+}
+.detail{
+    width: 6.4rem;
+    height: 1rem;
+    margin-left: 0.3rem;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.detail input{
+    margin-left:0.8rem;
+    margin-top: 0.5rem;
+}
+.number {
+    width: 6.4rem;
+    height: 1rem;
+    margin-left: 0.3rem;
+    font-size: 0.28rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.number input{
+    margin-left:0.8rem;
+    margin-top: 0.5rem;
+}
+.type{
+    width: 6.4rem;
+    height: 1rem;
+    margin-left: 0.3rem;
+    font-size: 0.28rem;
+    display: flex;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.type span{
+    margin-top: 0.5rem;
+}
+.select{ 
+    width: 4.4rem;
+    height:0.6rem;
+    float:right;
+    margin-top: 0.4rem;
+    margin-left:0.4rem;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.home{
+    width: 0.7rem;
+    height:0.44rem;
+    background-color: white;
+    border-radius: 0.08rem;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+}
+.home a{
+    color: black;
+}
+.select .home:first-child{
+    background-color: #feca4e;
+}
+.save{
+    width: 6.4rem;
+	height: 0.78rem;
+	background-color: #ffcb3f;
+    border-radius: 0.1rem;
+    margin-left:0.32rem;
+    margin-top: 0.56rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.save span {
+    color: white;
+    font-size: 0.3rem;
+}

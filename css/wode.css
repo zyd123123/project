@@ -1,0 +1,203 @@
+.top-box{
+    width: 100%;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fafafa;
+    border-top: solid 1px #bfbfbf;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.tab .div1{
+    display: block;
+    width: 0.8rem;
+    height: 0.98rem;
+    /* background: #000000;
+    opacity: 0.2; */
+    color: #000;
+    padding-top: 0.15rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center
+}
+.div1 span{
+    font-size: 0.2rem;
+}
+.div2>i,.div2>span{
+    color: #ffcb3f;
+}
+
+
+
+
+.back{
+    width: 7.5rem;
+    height:1.85rem;
+    margin-top: 0.88rem;
+}
+.back img{
+    position: absolute;
+    z-index: -1;
+}
+.account{
+    width: 7rem;
+    height: 3.1rem;
+    background-color: white;
+    margin-left: 0.24rem;
+    margin-top: -1.6rem;
+    box-shadow: 0 0 0.2rem 0 
+        rgba(118, 118, 118, 0.17); 
+    float: initial;
+    border-radius: 0.1rem;
+}
+.dog{
+    width: 7rem;
+    height: 1.68rem;
+    position: relative;
+}
+.dog img{
+    border-radius: 100%;
+    float: right;
+    position: absolute;
+    right:0.5rem;
+    top:0.4rem;
+}
+.name{
+    width: 2.6rem;
+    height:0.8rem;
+    position: absolute;
+    top: 0.6rem;
+    left: 0.5rem;
+}
+.name p{
+    font-size: 0.3rem;
+}
+.name span{
+    font-size: 0.18rem;
+    opacity: 0.7;
+}
+.name i{
+    font-size: 0.38rem;
+    float: right;
+    color: #ffcb3f;
+}
+
+
+.waiting{
+    width: 7rem;
+    height: 1.2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box1{
+    width:0.88rem;
+    height:0.88rem;
+    float: left; 
+}
+.box1 a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+.box1 p{
+    font-size:0.2rem;
+}
+.box1 i{
+    font-size: 0.4rem;
+}
+
+
+.options{
+    width: 7rem;
+    height: 4.24rem;
+    margin-left: 0.24rem;
+    margin-top: 0.24rem;
+    border-radius: 0.1rem;
+    box-shadow: 0 0 0.2rem 0 
+        rgba(118, 118, 118, 0.17); 
+}
+.order{
+    width: 2.3rem;
+    height: 1.4rem;
+    float:left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.order a {
+    color: #000;
+}
+.order i{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rest{
+    width: 7rem;
+    height: 2.4rem;
+    margin-left: 0.24rem;
+    margin-top: 0.24rem;
+    border-radius: 0.1rem;
+    box-shadow: 0 0 0.2rem 0 
+        rgba(118, 118, 118, 0.17); 
+}
+.us{
+    width: 6.5rem;
+    height: 0.9rem;
+    border-bottom: 0.01rem solid #f2f2f2;
+}
+.us i{
+    float: left;
+    margin-top: 0.4rem;
+}
+.us p{
+    float: left;
+    margin-top: 0.4rem;
+}
+.us span{
+    float: right;
+    margin-top: 0.4rem;
+}
+.us a{
+    color: #000;
+}
