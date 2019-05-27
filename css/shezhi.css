@@ -15,6 +15,7 @@
     position: absolute;
     top: 0.29rem;
     left: 0.2rem;
+    font-size: 0.3rem;
 }
 .top img{
     display:block;
@@ -25,10 +26,13 @@
     position: absolute;
     top: 0.35rem;
     right: 0.23rem;
+    font-size: 0.3rem;
 }
 .tab-box{
     width: 100%;
     height: 0.98rem;
+    position: fixed;
+    bottom: 0;
 }
 .tab{
     width: 7.5rem;
@@ -36,8 +40,6 @@
     background-color: #fafafa;
     border-top: solid 1px #bfbfbf;
     box-sizing: border-box;
-    position: fixed;
-    bottom: 0;
     display: flex;
     justify-content: space-around;
 }
@@ -62,4 +64,74 @@
 }
 .div1 i{
     font-size: 0.4rem;
+}
+.set{
+    width: 7.02rem;
+    height: 0.78rem;
+    
+    margin-left: 0.24rem;
+    margin-top: 0.88rem;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 0.78rem;
+}
+.set i{
+    font-size: 0.24rem;
+    float: left;
+    
+}
+.set p{
+    font-size: 0.28rem;
+    width: 7.02rem;
+    
+}
+.content{
+    width: 7.02rem;
+    height: 6.52rem;
+    border-bottom: 0.02rem solid #f2f2f2;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.content .content1{
+    width: 7.02rem;
+    height: 0.9rem;
+    /* margin-top: 0.32rem; */
+    padding: 0 0.3rem 0 0.3rem;
+    line-height: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-bottom: 0.02rem solid #f2f2f2;
+    
+}
+.content .content1 .left{
+    line-height: 0.9rem;
+    font-size: 0.26rem;
+}
+.content .content1 .right {
+    float: right;
+    width: 0.9rem;
+    height: 0.9rem;
+    display: block;
+    
+}
+.content .content1 .right i{
+    font-size: 0.24rem;
+    float: right;
+}
+.tuichu{
+    width: 7.02rem;
+    height: 0.9rem;
+    margin: 0 auto;
+    margin-top: 2.19rem;
+    font-size: 0.26rem;
+    line-height: 0.9rem;
+    color: #e1184c;
+    text-align: center;
+    background: #fff;
+}
+.box{
+    width: 100%;
+    height: 11.28rem;
+    background: #FCFCFC
 }
