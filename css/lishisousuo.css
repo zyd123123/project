@@ -1,0 +1,226 @@
+.top-box{
+    width: 7.5rem;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.topj{
+    width:7.5rem;
+    height:0.88rem;
+    /* background-color: aqua; */
+    margin-top:0.9rem;
+    position: relative;
+}
+.topj .topj1{
+    width:5.56rem;
+    height:0.88rem;
+    background-color: white;
+    margin-left:10px;
+    border-radius: 0.4rem;
+    border:1px solid #EFEFEF;
+}
+.topj input{
+    width:4rem;
+    height:0.8rem;
+    margin-left:0.6rem;
+    margin-top:0.01rem;
+    border:0;
+    outline: none;
+}
+.topj .iconmagnifier{
+    position: absolute;
+    top: 0.35rem;
+    left: 0.25rem;
+    font-size: 18px;
+}
+.topj span{
+    float: right;
+    margin-top:-32px;
+    margin-right:35px;
+    font-size: 16px;
+}
+.box1{
+    width:7.5rem;
+    height:3.88rem;
+    /* background-color: teal; */
+    margin-top:10px;
+}
+.box1 .small{
+    width: 7.5rem;
+    height:1.88rem;
+    /* background-color: violet; */
+}
+.box1 .bor{
+    float: left;
+    width: 4px;
+    height: 20px;
+    /* background-color: #FFCB3F; */
+    margin-top: 14px;
+}
+.box1 .bor1{
+    line-height: 47px;
+    margin-left:-190px;
+}
+.box1 .small .small2{
+    width:1.8rem;
+    height:0.8rem;
+    background-color: aquamarine;
+    float: left;
+    margin-top:50px;
+    border-radius: 0.4rem;
+}
+.box1 .small .small3{
+    margin-left:10px;
+}
+.box1 .small .small2 span{
+    margin-left:18px;
+    line-height: 44px;
+}
+.box1 .small1{
+    margin-top:10px;
+}
+.box1 .small .ziti{
+    margin-left:4.2rem;
+}
+.zhongjian{
+    width:7.5rem;
+    height:6.8rem;
+    background-color: #F8F8F8;
+    margin-top:3px;
+}
+.zhongjian .top4{
+    width:7.5rem;
+    height:0.88rem;
+    /* background-color: antiquewhite; */
+}
+.top4 .bor{
+    float: left;
+    width: 4px;
+    height: 20px;
+    background-color: #FFCB3F;
+    margin-top: 14px;
+}
+.zhongjian .top4 .ziyi{
+    float: left;
+    margin-top:13px;
+    margin-left:10px;
+    font-size: 16px;
+}
+.zhongjian .yu{
+    width:3.5rem;
+    height:5.2rem;
+    background-color: white;
+    margin-top:10px;
+    margin-left:5px;
+}
+.zhongjian .yu1{
+    float: right;
+    width:3.5rem;
+    height:5.2rem;
+    background-color: white;
+    margin-top:-287px;
+    margin-right:12px;
+}
+.zhongjian .yu img{
+    width:3.5rem;
+    height:3rem;
+}
+.zhongjian .yu .xiao{
+    width:0.4rem;
+    height:0.03rem;
+    background-color: black;
+    margin-left:10px;
+    margin-top:1px;
+}
+.zhongjian .yu p{
+    font-size: 14px;
+    margin-left:10px;
+    line-height: 0.6rem;
+}
+.zhongjian .yu .ziyt{
+    line-height: 0.4rem;
+}
+.zhongjian .yu .zi{
+    margin-left:10px;
+    line-height: 1.4rem;
+}
+.zhongjian .yu .ku{
+    width:1.53rem;
+    height:0.44rem;
+    background-color: #ffcb3f;
+    float: right;
+    margin-top:0.5rem;
+}
+.zhongjian .yu .ku .iconjiahao{
+    line-height: 0.5rem;
+    color:white;
+}
+.zhongjian .yu .ku .zi1{
+    font-size: 15px;
+    color:white
+}
+.zhongjian .yu1 img{
+    width:3.5rem;
+    height:3rem;
+}
+.zhongjian .yu1 .xiao{
+    width:0.4rem;
+    height:0.03rem;
+    background-color: black;
+    margin-left:10px;
+    margin-top:1px;
+}
+.zhongjian .yu1 p{
+    font-size: 14px;
+    margin-left:10px;
+    line-height: 0.6rem;
+}
+.zhongjian .yu1 .ziyt{
+    line-height: 0.4rem;
+}
+.zhongjian .yu1 .zi{
+    margin-left:10px;
+    line-height: 1.4rem;
+}
+.zhongjian .yu1 .ku{
+    width:1.53rem;
+    height:0.44rem;
+    background-color: #ffcb3f;
+    float: right;
+    margin-top:0.5rem;
+}
+.zhongjian .yu1 .ku .iconjiahao{
+    line-height: 0.5rem;
+    color:white;
+}
+.zhongjian .yu1 .ku .zi1{
+    font-size: 15px;
+    color:white
+}

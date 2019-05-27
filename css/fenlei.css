@@ -1,0 +1,185 @@
+.top-box{
+    width: 7.5rem;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+}
+.top{
+    width: 7.47rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.topj{
+    width:7.5rem;
+    height:0.88rem;
+    /* background-color: aqua; */
+    margin-top:0.9rem;
+    position: relative;
+}
+.topj .topj1{
+    width:5.56rem;
+    height:0.88rem;
+    background-color: white;
+    margin-left:10px;
+    border-radius: 0.4rem;
+    border:1px solid #EFEFEF;
+}
+.topj input{
+    width:4rem;
+    height:0.7rem;
+    margin-left:0.6rem;
+    margin-top:0.01rem;
+    border:0;
+    outline: none;
+}
+.topj .iconmagnifier{
+    position: absolute;
+    top: 0.35rem;
+    left: 0.23rem;
+}
+.topj span{
+    float: right;
+    margin-top:-32px;
+    margin-right:35px;
+    font-size: 16px;
+}
+.dibu{
+    width:7.5rem;
+    height:10.5rem;
+    /* background-color: blanchedalmond; */
+    position: relative;
+}
+.left{
+    width:2rem;
+    height:1.04rem;
+    background-color:#F7F7F7;
+    margin-top:2px;
+}
+.left1{
+    background-color: white;
+}
+.left .tiao{
+    width:0.11rem;
+    height:1.05rem;
+    background-color: #ffcb3f;
+    display:inline-block;
+    float: left;
+}
+.left span{
+    line-height: 0.9rem;;
+    margin-left:10px;
+}
+.left .ziyu{
+    float: left;
+    margin-top:4px;
+}
+.top7{
+    width:5.5rem;
+    height:1.68rem;
+    /* background-color: aqua; */
+    position: absolute;
+    top:1px;
+    left:112px;
+}
+.xian{
+    width:3.34rem;
+    height:0.32rem;
+    background-color: white;
+    position: absolute;
+    top:110px;
+    left:166px;
+}
+.dibu .xian .xian1{
+    float: right;
+    color: #ffcb3f;
+
+}
+.dibu .xian .xinpin{
+    float: right;
+    font-size:13px;
+    margin-right: 7px;
+}
+.dibu .xian .xian2{
+    color: #ffcb3f;  
+}
+.dibu .hezi{
+    width:5.4rem;
+    height:6.02rem;
+    /* background-color: aquamarine; */
+    float: right;
+    position: absolute;
+    top:137px;
+    left:114px;
+}
+.dibu .hezi .hezi1{
+    width:5.4rem;
+    height:1.9rem;
+    background-color: white;
+    margin-top:10px;
+}
+.dibu .hezi .hezi1 .hezi2{
+    width:1.5rem;
+    height:1.9rem;
+    /* background-color:red;  */
+    float: left;
+    margin-left:10px;
+}
+.dibu .hezi .hezi1 .hezi2 .zir{
+    font-size: 14px;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+}
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fafafa;
+    border-top: solid 1px #bfbfbf;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: -3px;;
+    display: flex;
+    justify-content: space-around;
+}
+.tab .div1{
+    display: block;
+    width: 0.8rem;
+    height: 0.98rem;
+    /* background: #000000;
+    opacity: 0.2; */
+    color: #000;
+    padding-top: 0.15rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center
+}
+.div1 span{
+    font-size: 0.2rem;
+}
+.div2>i,.div2>span{
+    color: #ffcb3f;
+}
