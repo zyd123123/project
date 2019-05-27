@@ -1,0 +1,361 @@
+.top-box{
+    width: 100%;
+    height: 0.88rem;
+    position: fixed;
+    top: 0;
+}
+.top{
+    width: 7.5rem;
+    height: 0.88rem;
+    /* background: #999; */
+    margin: 0 auto;
+    position: relative;
+    background-color: #fff;
+    margin-left: 0;
+}
+.iconcuowu{
+    position: absolute;
+    top: 0.29rem;
+    left: 0.2rem;
+}
+.top img{
+    display:block;
+    margin: 0 auto;
+    height: 0.88rem;
+}
+.top .iconmore{
+    position: absolute;
+    top: 0.35rem;
+    right: 0.23rem;
+}
+.tab-box{
+    width: 100%;
+    height: 0.98rem;
+    position: fixed;
+    bottom: 0;
+}
+.tab{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fafafa;
+    border-top: solid 1px #bfbfbf;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+}
+.tab .div1{
+    display: block;
+    width: 0.8rem;
+    height: 0.98rem;
+    /* background: #000000;
+    opacity: 0.2; */
+    color: #000;
+    padding-top: 0.15rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center
+}
+.div1 span{
+    font-size: 0.2rem;
+}
+.div2>i,.div2>span{
+    color: #ffcb3f;
+}
+.div1 i{
+    font-size:0.4rem;
+}
+.q{
+    width:100%;
+    height:0.98rem;
+    margin-top:0.88rem;
+    border-top:0.01rem solid #EEEEEE;
+    border-bottom:0.01rem solid #ffcb3f;
+    font-size:0.28rem;
+    color: #000000;
+    text-align:center;
+    line-height:0.78rem;
+    position:relative;
+    background-color: #fff;
+    position:relative;
+}
+.q .q1{
+    display:block; 
+    float: left;
+    width:3.25rem;
+    height:0.98rem;
+    text-align:center;
+    line-height:0.98rem;
+    font-size:0.24rem;
+    color:#737373;
+    margin-left: 0.25rem;
+}
+.q .q2{
+    display:block; 
+    float: right;
+    width:3.25rem;
+    height:0.98rem;
+    text-align:center;
+    line-height:0.98rem;
+    font-size:0.24rem;
+    color:#ffcb3f;
+    margin-right: 0.25rem;
+}
+.q span{
+    display:block; 
+    width:0.55rem;
+    height: 0.03rem;
+    background-color: #ffcb3f;
+    position:absolute; 
+    right:1.6rem;
+    bottom:0.01rem;
+}
+.w{
+    height:3.49rem;
+    width:7.02rem;
+    margin:0 auto;
+    border-bottom:0.01rem solid #d7d7d7;
+    position:relative;
+}
+.w .ww{
+    width:1.18rem;
+    height:1.18rem;
+    position:absolute; 
+    top:0.51rem;
+    left:0.2rem;
+} 
+.w .w1{
+    font-size:0.28rem;
+    color:#333;
+    position:absolute; 
+    top:0.46rem;
+    left:1.66rem;
+}
+.w .w2{
+    font-size:0.24rem;
+    color:#333;
+    position:absolute; 
+    top:1.02rem;
+    left:1.66rem;
+}
+.w .w3{
+    font-size:1rem;
+    color:#d880d7;
+    position:absolute; 
+    top:2.6rem;
+    left:1.66rem;
+}
+.w .w4{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:2rem;
+}
+.w .w5{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:3rem;
+}
+.w .w11{
+    width:2.02rem;
+    height:1.32rem;
+    position:absolute; 
+    top:1.47rem;
+    left:1.66rem;
+} 
+.w .w12{
+    width:2.02rem;
+    height:1.32rem;
+    position:absolute; 
+    top:1.47rem;
+    left:3.9rem;
+} 
+.w .iconfont{
+    font-size:0.18rem;
+    color:#ffcb3f;
+}
+.w p{
+    position:absolute; 
+    top:0.1rem;
+    left:3.3rem;
+}
+.e{
+    height:3.49rem;
+    width:7.02rem;
+    margin:0 auto;
+    border-bottom:0.01rem solid #d7d7d7;
+    position:relative;
+}
+.e .ee{
+    width:1.18rem;
+    height:1.18rem;
+    position:absolute; 
+    top:0.51rem;
+    left:0.2rem;
+} 
+.e .e1{
+    font-size:0.28rem;
+    color:#333;
+    position:absolute; 
+    top:0.46rem;
+    left:1.66rem;
+}
+.e .e2{
+    font-size:0.24rem;
+    color:#333;
+    position:absolute; 
+    top:1.02rem;
+    left:1.66rem;
+}
+.e .e3{
+    font-size:1rem;
+    color:green;
+    position:absolute; 
+    top:2.6rem;
+    left:1.66rem;
+}
+.e .e4{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:2rem;
+}
+.e .e5{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:3rem;
+}
+.e .iconfont{
+    font-size:0.18rem;
+    color:#ffcb3f;
+}
+.e p{
+    position:absolute; 
+    top:0.1rem;
+    left:3.4rem;
+}
+.e .e6{
+    font-size:0.24rem;
+    color:#727272;
+    position:absolute; 
+    top:1.5rem;
+    left:1.66rem;
+}
+.e .e7{
+    font-size:0.22rem;
+    color:#333;
+    position:absolute; 
+    top:2.3rem;
+    left:1.66rem;
+}.e .e8{
+    font-size:0.22rem;
+    color:#333;
+    position:absolute; 
+    top:2.3rem;
+    left:2.3rem;
+}
+
+.r{
+    height:3.49rem;
+    width:7.02rem;
+    margin:0 auto;
+    position:relative;
+}
+.r .rr{
+    width:1.18rem;
+    height:1.18rem;
+    position:absolute; 
+    top:0.51rem;
+    left:0.2rem;
+} 
+.r .r1{
+    font-size:0.28rem;
+    color:#333;
+    position:absolute; 
+    top:0.46rem;
+    left:1.66rem;
+}
+.r .r2{
+    font-size:0.24rem;
+    color:#333;
+    position:absolute; 
+    top:1.02rem;
+    left:1.66rem;
+}
+.r .r3{
+    font-size:1rem;
+    color:green;
+    position:absolute; 
+    top:2.6rem;
+    left:1.66rem;
+}
+.r .r4{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:2rem;
+}
+.r .r5{
+    font-size:0.18rem;
+    color:#727272;
+    position:absolute; 
+    top:3rem;
+    left:3rem;
+}
+.r .iconfont{
+    font-size:0.18rem;
+    color:#ffcb3f;
+}
+.r p{
+    position:absolute; 
+    top:0.1rem;
+    left:3.4rem;
+}
+.r .r6{
+    font-size:0.24rem;
+    color:#727272;
+    position:absolute; 
+    top:1.5rem;
+    left:1.66rem;
+}
+.r .r7{
+    font-size:0.22rem;
+    color:#333;
+    position:absolute; 
+    top:2.3rem;
+    left:1.66rem;
+}.r .r8{
+    font-size:0.22rem;
+    color:#333;
+    position:absolute; 
+    top:2.3rem;
+    left:2.3rem;
+}
+.t{
+    width: 5rem;
+    margin:0 auto;
+    text-align:center;
+    color:#727272;
+    font-size:0.18rem;
+}
+.t .t1{
+    width:1.5rem;
+    float: left;
+    background-color: #727272;
+    height: 0.03rem;
+    margin-top:0.16rem;
+}
+.t .t2{
+    width:1.5rem;
+    float: right;
+    background-color: #727272;
+    height: 0.03rem;
+    margin-top:0.16rem;
+}
