@@ -36,7 +36,7 @@
     width: 7.5rem;
     height: 0.98rem;
     background-color: #fafafa;
-    border-top: solid 1px #bfbfbf;
+    border-top: solid 0.01rem #bfbfbf;
     box-sizing: border-box;
     display: flex;
     justify-content: space-around;
@@ -67,7 +67,7 @@
     margin-top:0.88rem;
 }
 .bog .iconfanhui{
-    font-size: 25px;
+    font-size: 0.4rem;
     line-height: 0.89rem;
 }
 .bog .zi{
@@ -89,7 +89,7 @@
     background-color:white;
     position: absolute;
     top:-0.56rem;
-    box-shadow: 0px 1px 21px 0px rgba(118, 118, 118, 0.17);
+    box-shadow: 0px 0.01rem 0.21rem 0px rgba(118, 118, 118, 0.17);
     margin-left:0.23rem;
     border-radius: 0.1rem;
     position: relative;
@@ -101,14 +101,14 @@
     position: absolute;
     top:0;
     border-radius: 0.1rem;
-    border-bottom: 1px solid #F5F5F5;
+    border-bottom: 0.01rem solid #F5F5F5;
 }
 .top1 .top2{
     width:2rem;
     height:2rem;
     background-color:#ffcb3f;
     border-radius: 1.2rem;
-    margin-top:10px;
+    margin-top:0.1rem;
     position: relative;
 }
 .dibu .top1 .top2 img{
