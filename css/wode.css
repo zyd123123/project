@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+}
 .top-box{
     width: 100%;
     height: 0.88rem;
@@ -106,15 +111,21 @@
 }
 .name p{
     font-size: 0.3rem;
+    margin-top: 0.1rem;
 }
-.name span{
+.name pre{
     font-size: 0.18rem;
     opacity: 0.7;
+    position: absolute;
+
+    top: 0.5rem;
 }
 .name i{
+    margin-top:0.1rem;
     font-size: 0.38rem;
     float: right;
     color: #ffcb3f;
+
 }
 
 
@@ -132,13 +143,14 @@
 }
 .box1 a{
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     justify-content: center;
-    align-items: center;
+     align-items: center;
     color: #000;
 }
 .box1 p{
     font-size:0.2rem;
+    margin: 0;
 }
 .box1 i{
     font-size: 0.4rem;
@@ -153,6 +165,7 @@
     border-radius: 0.1rem;
     box-shadow: 0 0 0.2rem 0 
         rgba(118, 118, 118, 0.17); 
+    
 }
 .order{
     width: 2.3rem;
@@ -171,6 +184,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.order p{
+    margin: 0;
 }
 .rest{
     width: 7rem;
