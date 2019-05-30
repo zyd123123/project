@@ -87,6 +87,7 @@
     top: 0.3rem;
     left: 1.3rem;
     color: #000;
+    margin: 0 auto;
 }
 .chenggong .p2{
     font-size: 0.18rem;
@@ -96,12 +97,14 @@
     opacity: 0.7;
     position: absolute;
     top: 0.8rem;
+    margin: 0 auto;
     left: 1.5rem;
 }
 .chenggong .p3{
     position: absolute;
     top: 1.97rem;
     left: 2.62rem;
+    margin: 0 auto;
     height: 0.25rem;
 }
 .chenggong .p3 .span1{
@@ -122,6 +125,7 @@
     color: #fff;
     text-align: center;
     line-height: 0.49rem;
+    font-size: 0.26rem;
 }
 .chenggong .btn1{
     position: absolute;
@@ -188,14 +192,14 @@ li .p1{
     background: #000;
     position: absolute;
     top: 3.28rem;
-    left: 0.23rem;;
+    left: 0rem;;
 }
 li .p2{
     height: 0.46rem;
     /* background: #000; */
     position: absolute;
     top: 3.42rem;
-    left: 0.22rem;
+    left: 0rem;
     color: #000;
 }
 li .p2 .span1{
@@ -217,7 +221,7 @@ li .p4{
     position: absolute;
     top: 4.1rem;
     color: #000;
-    left: 0.23rem;
+    left: 0rem;
 }
 li .p4 .span3{
     font-size: 0.23rem;
