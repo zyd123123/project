@@ -153,4 +153,6 @@ li a div{
     width: 6.5rem;
     height: 0.64rem;
     outline: none;
+    border: 0.01rem solid #999; 
+    text-indent: 1em;
 }
