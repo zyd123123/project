@@ -1,7 +1,6 @@
 .top-box{
     width: 7.5rem;
     height: 0.88rem;
-    position: fixed;
     top: 0;
     overflow: hidden;
 }
@@ -9,8 +8,8 @@
     width: 7.47rem;
     height: 0.88rem;
     /* background: #999; */
-    margin: 0 auto;
     position: relative;
+    background-color: #ffff;
 }
 .iconcuowu{
     position: absolute;
@@ -35,7 +34,6 @@
     width:7.5rem;
     height:0.88rem;
     /* background-color: aqua; */
-    margin-top:0.9rem;
     position: relative;
 }
 .topj .topj1{
@@ -62,8 +60,8 @@
 }
 .topj span{
     float: right;
-    margin-top:-0.5rem;
-    margin-right:0.55rem;
+    margin-top:-0.7rem;
+    margin-right:1.1rem;
     font-size: 0.3rem;
 }
 .box1{
@@ -135,7 +133,6 @@
     width:3.5rem;
     height:5.2rem;
     background-color: white;
-    margin-top:0.4rem;
     margin-left:0.08rem;
 }
 .zhongjian .yu1{
@@ -181,7 +178,7 @@
     color:white;
 }
 .zhongjian .yu .ku .zi1{
-    font-size: 15px;
+    font-size: 0.16rem;
     color:white
 }
 .zhongjian .yu1 img{

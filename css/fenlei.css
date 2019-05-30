@@ -61,13 +61,13 @@
 }
 .topj span{
     float: right;
-    margin-top:-0.55rem;
-    margin-right:0.65rem;
+    margin-top:-0.7rem;
+    margin-right:1.1rem;
     font-size: 0.3rem;
 }
 .dibu{
     width:7.5rem;
-    height:10.5rem;
+    height:9.5rem;
     /* background-color: blanchedalmond; */
     position: relative;
 }
@@ -90,7 +90,8 @@
     float: left;
 }
 .left span{
-    line-height: 0.9rem;;
+    line-height: 0.9rem;
+    font-size: 0.14rem;
 }
 .left .ziyu{
     float: left;
@@ -149,7 +150,9 @@
 }
 .dibu .hezi .hezi1 .hezi2 .zir{
     font-size: 0.25rem;
+    color:black;
 }
+
 .tab-box{
     width: 100%;
     height: 0.98rem;
