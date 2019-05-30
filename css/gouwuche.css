@@ -54,6 +54,9 @@
     display: flex;
     justify-content: space-around;
 }
+.tab-box .tab a>i{
+    font-size: 0.4rem;
+}
 .tab .div1{
     display: block;
     width: 0.8rem;
