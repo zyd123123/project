@@ -64,6 +64,9 @@
     flex-direction: column;
     align-items: center
 }
+.div1 i{
+    font-size: 0.4rem;
+}
 .div1 span{
     font-size: 0.2rem;
 }
@@ -191,6 +194,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: 0.3rem;
 }
 .order p{
     margin: 0;
@@ -213,16 +217,19 @@
 .us i{
     float: left;
     margin-top: 0.4rem;
-    margin-left: 0.2rem;
+    margin-left: 0.4rem;
+    font-size: 0.3rem;
 }
 .us p{
     float: left;
     margin-top: 0.4rem;
     margin-left: 0.2rem;
+    font-size: 0.24rem;
 }
 .us span{
     float: right;
     margin-top: 0.4rem;
+    font: bolder;
 }
 .us a{
     color: #000;
