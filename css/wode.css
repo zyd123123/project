@@ -20,6 +20,8 @@
     position: absolute;
     top: 0.29rem;
     left: 0.2rem;
+    color: black;
+    font-size: 0.34rem;
 }
 .top img{
     display:block;
@@ -30,6 +32,8 @@
     position: absolute;
     top: 0.35rem;
     right: 0.23rem;
+    color: #000;
+    font-size: 0.34rem;
 }
 
 .tab-box{
@@ -127,6 +131,9 @@
     color: #ffcb3f;
 
 }
+.name a{
+    color: black;
+}
 
 
 .waiting{
@@ -149,7 +156,7 @@
     color: #000;
 }
 .box1 p{
-    font-size:0.2rem;
+    font-size:0.18rem;
     margin: 0;
 }
 .box1 i{
@@ -187,6 +194,7 @@
 }
 .order p{
     margin: 0;
+    font-size: 0.24rem;
 }
 .rest{
     width: 7rem;
@@ -205,10 +213,12 @@
 .us i{
     float: left;
     margin-top: 0.4rem;
+    margin-left: 0.2rem;
 }
 .us p{
     float: left;
     margin-top: 0.4rem;
+    margin-left: 0.2rem;
 }
 .us span{
     float: right;

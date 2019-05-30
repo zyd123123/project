@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+}
 .top-box{
     width: 100%;
     height: 0.88rem;
@@ -15,6 +20,7 @@
     position: absolute;
     top: 0.29rem;
     left: 0.2rem;
+    color: black;
 }
 .top img{
     display:block;
@@ -25,6 +31,7 @@
     position: absolute;
     top: 0.35rem;
     right: 0.23rem;
+    color: black;
 }
 .tab-box{
     width: 100%;
