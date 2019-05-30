@@ -25,6 +25,9 @@ body{
     position: fixed;
     top: 0;
 }
+.top-box i{
+    color:black;
+}
 .iconcuowu{
     position: absolute;
     top: 0.29rem;
@@ -39,6 +42,9 @@ body{
     position: absolute;
     top: 0.35rem;
     right: 0.23rem;
+}
+.tops i{
+    color:black;
 }
 .tab-box{
     width: 7.5rem;
@@ -74,8 +80,9 @@ body{
 .div2>i,.div2>span{
     color: #ffcb3f;
 }
-.div1 i{
+.tab-box .tab i{
     font-size:0.4rem;
+    color:black;
 }
 
 /* 分割 */
