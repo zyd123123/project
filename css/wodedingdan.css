@@ -4,13 +4,18 @@
     position: fixed;
     top: 0;
     background-color:#Fff;
+    z-index: 999;
 }
 .top{
     width: 7.47rem;
     height: 0.88rem;
     /* background: #999; */
     margin: 0 auto;
-    position: relative;
+    position:fixed; 
+    z-index: 999;
+}
+.top i{
+    color:black;
 }
 .iconcuowu{
     position: absolute;

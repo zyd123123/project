@@ -11,6 +11,10 @@
     margin: 0 auto;
     position: relative;
     background-color: #fff;
+    z-index: 9;
+}
+.top i{
+    color:black;
 }
 .iconcuowu{
     position: absolute;
