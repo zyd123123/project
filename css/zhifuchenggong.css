@@ -6,6 +6,8 @@
     height: 0.88rem;
     position: fixed;
     top: 0;
+    z-index: 999;
+    background: #fff;
 }
 .top{
     width: 7.47rem;
@@ -49,7 +51,7 @@
     height: 0.24rem;
     margin: 0.27rem 0 0.27rem 0.27rem;
 }
-.zfcg p{
+.zfcg span{
     text-align: center;
     line-height: 0.78rem;
     font-size: 0.28rem;
@@ -82,8 +84,8 @@
     height: 0.28rem;
     width: 4.67rem;
     position: absolute;
-    top: 0.74rem;
-    left: 1.18rem;
+    top: 0.3rem;
+    left: 1.3rem;
     color: #000;
 }
 .chenggong .p2{
@@ -93,8 +95,8 @@
     color: #000;
     opacity: 0.7;
     position: absolute;
-    top: 1.07rem;
-    left: 0.62rem;
+    top: 0.8rem;
+    left: 1.5rem;
 }
 .chenggong .p3{
     position: absolute;
@@ -207,11 +209,13 @@ li .p2 .span2{
     font-size: 0.24rem;
     line-height: 0.2rem;
     color: #000;
+    display: block;
+    margin-top: 0.1rem;
 }
 li .p4{
     height: 0.19rem;
     position: absolute;
-    top: 4.53rem;
+    top: 4.1rem;
     color: #000;
     left: 0.23rem;
 }

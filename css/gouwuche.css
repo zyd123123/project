@@ -9,6 +9,13 @@
     height: 0.88rem;
     position: fixed;
     top: 0;
+    background: #fff;
+    z-index: 99999;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 .top{
     width: 7.47rem;
@@ -16,8 +23,6 @@
     /* background: #999; */
     margin: 0 auto;
     position: relative;
-    background: #fff;
-    z-index: 99999;
 }
 .iconcuowu{
     position: absolute;
@@ -81,6 +86,12 @@
     /* background: #bfbfbf;  */
     position: relative;
 }
+.item1 a{
+    width:1.99rem;
+    height: 1.4rem;
+    display: block;
+    float: left;
+}
 .item1>input{
     position: absolute;
     top: 1.05rem;
@@ -93,35 +104,40 @@
     float: left;
 }
 .right{
-    width: 1.6rem;
-    height: 1.2rem;
+    width: 2rem;
+    height: 1.5rem;
     /* background: #bfbfbf; */
     float:left;
-    margin:0.57rem 0 0 0.2rem;
+    margin:0.57rem 0 0 1rem;
 }
 .right .p1{
+    width: auto;
     height: 0.15rem;
     font-size: 0.18rem;
 	line-height: 0.18rem;
-	color: #000000;
+    color: #000000;
+    /* margin-top: 0.09rem; */
+    /* display: block; */
 }
 .right .p2{
 	height: 0.24rem;
 	font-size: 0.24rem;
 	line-height: 0.18rem;
     color: #000000;
-    margin-top: 0.09rem;
+    margin-top: 0.2rem;
+    display: block;
 }
 .right .p3{
 	height: 0.18rem;
 	font-size: 0.18rem;
 	line-height: 0.18rem;
     color: #000000;
-    margin-top: 0.13rem;
+    margin-top: 0.15rem;
+    display: block;
 }
 .right .p4{
     height: 0.19rem;
-    margin-top: 0.15rem;
+    margin-top: 0.1rem;
 }
 .right .p4 .span1{
     font-size: 0.24rem;
@@ -141,11 +157,16 @@
     display: flex;
     justify-content:space-between;
 }
+.jiajian span{
+    text-align: center;
+}
 .jiajian input{
     width: 0.38rem;
     height: 0.38rem;
     border: 0;
     line-height: 0.4rem;
+    margin-left: 0.2rem;
+    /* float: left; */
 }
 .sekuai1{
     width: 7.04rem;
@@ -225,8 +246,8 @@ li .p1{
     left: 0.23rem;;
 }
 li .p2{
-    height: 0.46rem;
-    /* background: #000; */
+    height: 0.5rem;
+    /* background: #000;     */
     position: absolute;
     top: 3.42rem;
     left: 0.22rem;
@@ -239,6 +260,8 @@ li .p2 .span1{
     color: #000;
 }
 li .p2 .span2{
+    display: block;
+    margin-top: 0.1rem;
     float: left;
     font-size: 0.24rem;
     line-height: 0.2rem;
@@ -247,7 +270,7 @@ li .p2 .span2{
 li .p4{
     height: 0.19rem;
     position: absolute;
-    top: 4.53rem;
+    top: 4rem;
     color: #000;
     left: 0.23rem;
 }
@@ -255,6 +278,7 @@ li .p4 .span3{
     font-size: 0.23rem;
     color: #000;
     line-height: 0.2rem;
+    margin-top: 0.2rem;
 }
 li .p4 .span4{
     font-size: 0.18rem;
@@ -266,7 +290,7 @@ li .btn{
     width: 1.53rem;
     height: 0.44rem;
     right: 0.37rem;
-    bottom: 0.23rem;
+    bottom: 0.6rem;
     background-color: #ffcb3f;
     border-radius: 4px;
     font-size: 0.22rem;
