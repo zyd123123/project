@@ -3,6 +3,8 @@
     height: 0.88rem;
     position: fixed;
     top: 0;
+    background: #fff;
+    z-index: 11;
 }
 .top{
     width: 7.47rem;
@@ -66,14 +68,16 @@
     font-size: 0.4rem;
 }
 .set{
-    width: 7.02rem;
+    width: 7.5rem;
     height: 0.78rem;
-    
-    margin-left: 0.24rem;
-    margin-top: 0.88rem;
+    padding: 0 0.24rem;
     box-sizing: border-box;
+    position: fixed;
+    top: 0.88rem;
+    background: #fff;
     text-align: center;
     line-height: 0.78rem;
+    z-index: 10;
 }
 .set i{
     font-size: 0.24rem;
@@ -82,20 +86,21 @@
 }
 .set p{
     font-size: 0.28rem;
-    width: 7.02rem;
-    
 }
 .box{
     /* height: 9.02rem;
     width: 7.5rem; */
     background: #F4F4F4;
+    height: 22rem;
+    margin-top: 1.66rem;
+    padding-top: 0.1rem;
     /* padding: 0 0.24rem;
     box-sizing: border-box;
     padding-top:  0.32rem; */
 }
 .box .content{
     width: 7.02rem;
-    height: 2.76rem;
+    height: 2.86rem;
     margin: 0 auto;
     margin-top: 0.3rem;
     background: #fff;
@@ -157,6 +162,7 @@
     line-height: 0.36rem;
     float: right;
     text-align: right;
+    margin-top: 0.04rem;
 }
 .box .content .right .price span{
     font-size: 0.18rem
@@ -211,7 +217,7 @@
 .goods .goodsL{
     width: 3.24rem;
     height: 5.08rem;
-    
+    background: #fff;
     float: left;
     margin-right: 0.21rem;
 }
@@ -251,7 +257,7 @@
     
     margin-top: 0.54rem;
 }
-.goods .goodsL .price p{
+.goods .goodsL .price .left{
     font-size: 0.23rem;
     line-height: 0.44rem;
     float: left;
