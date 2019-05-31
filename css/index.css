@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 .header{
     width:7.5rem;
     height:0.9rem;
@@ -25,7 +29,7 @@
     top:0;
 }
 .header .header-box .header-box-left .iconfont{
-    font-size:0.34rem;
+    font-size:0.24rem;
     color:060606;
     line-height: 0.9rem;
     
@@ -150,7 +154,8 @@
     
 }
 .bigbox .box .box-big{
-    width:15rem;
+    width:13.6rem;
+    height:100%;
 }
 .bigbox .box .box-big .box-1{
     width:3.08rem;
@@ -515,6 +520,9 @@
 }
 .div1 span{
     font-size: 0.2rem;
+}
+.div1 .iconfont{
+    font-size: 0.4rem;
 }
 .div2>i,.div2>span{
     color: #ffcb3f;

@@ -101,7 +101,8 @@
     position: absolute;
     top: 0.8rem;
     margin: 0 auto;
-    left: 1.6rem;
+    left: 0.6rem;
+    text-align: center;
 }
 .chenggong .p3{
     position: absolute;

@@ -38,7 +38,7 @@
     margin: 0 auto;
     margin-top: 0.88rem;
     padding-top: 0.27rem;
-    box-shadow: -0.01rem --0.05rem --0.05rem 0 rgba(118, 118, 118, 0.17);
+    box-shadow: -0.01rem -0.05rem -0.05rem 0 rgba(118, 118, 118, 0.17);
     box-sizing: border-box;
 }
 .adressBox .box1{
@@ -156,56 +156,66 @@
 }
 .queren .content .right{
     height: 0.94rem;
-    /* width: 5.36rem; */
+    width: 5.1rem;
     box-sizing: border-box;
     padding:0 0.1rem;
     position: relative;
+    float: left;
 }
-.queren .content .right span{
+a{
+    color: #000;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+
+
+.queren .content .right .left{
+    width: 1.7rem;
+    height: 100%;
+    float: left;
+}
+.queren .content .right .left .name{
+    width: 100%;
+    height: auto;
     font-size: 0.18rem;
-    line-height: 0.25rem;
-    color: #000;
-    float: left;
+    color: #a3a3a3;
 }
-.queren .content .right .name{
+.queren .content .right .left .name .name1{
     font-size: 0.24rem;
-    line-height: 0.25rem;
     color: #000;
+}
+.queren .content .right .left .name .miaoshu{
+    font-size: 0.18rem;
+    color: #a3a3a3;
+}
+.queren .content .right .right1{
+    width: 3.2rem;
+    height: 0.94rem;
+    line-height: 0.94rem;
     float: left;
 }
-.queren .content .right .price{
+.queren .content .right .right1 div{
+    float: left;
+    width: 30%;
+}
+.queren .content .right .right1 .price{
     font-size: 0.26rem;
-    line-height: 0.36rem;
-    margin-top: 0.3rem;
-    margin-left: 0.6rem;
     font-weight: bold;
-    
 }
-.queren .content .right .price P{
+.queren .content .right .right1 .price span{
     font-size: 0.18rem;
-    line-height: 0.36rem;
-    display: inline;
+    font-weight: normal;
 }
-.queren .content .right .num{
+.queren .content .right .right1 .num{
     font-size: 0.24rem;
-    line-height: 0.36rem;
-    margin-top: 0.3rem;
-    margin-left: 0.6rem;
-    
+    text-align: center;
 }
-.queren .content .right .state{
-    font-size: 0.24rem;
-    line-height: 0.36rem;
-    margin-top: 0.3rem;
-    margin-left: 0.6rem; 
-}
-.queren .content .right .miaoshu{
-    font-size: 0.18rem;
-    line-height: 0.18rem;
-    margin-left: 1.05rem;
-    position: absolute;
-    bottom: 0;
-    left: 0.11rem;
+.queren .content .right .right1 .state{
+    font-size: 0.26rem;
+    text-align: right;
+    width: 40%;
 }
 .queren .zongjia{
     height: 0.36rem;
@@ -266,7 +276,9 @@
     height: 0.44rem;
     float: left;
     box-sizing: border-box;
-    margin-left: 0.34rem;
+    margin-left: 0.4rem;
+    border:0;
+    
 }
 .kaipiao{
     width: 7.02rem;
@@ -307,12 +319,16 @@
     height: 0.9rem;
     margin-top: 0.17rem;
     letter-spacing: 0.02rem;
+    position: fixed;
+    bottom: 0;
+    background: #fff;
 }
 .fukuan .box1{
     float: left;
     font-size: 0.24rem;
     line-height: 0.9rem;
     margin-left: 0.24rem;
+    background: #fff;
 }
 .fukuan .box2{
     float: left;
@@ -320,12 +336,14 @@
     line-height: 0.9rem;
     color: #ffcb3f;
     margin-left: 0.24rem;
+    background: #fff;
 }
 .fukuan .box3{
     float: left;
     font-size: 0.18rem;
     line-height: 0.9rem;
     margin-top: 0.02rem;
+    background: #fff;
 }
 .fukuan .box4{
     display: block;

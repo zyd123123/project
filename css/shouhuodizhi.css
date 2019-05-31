@@ -126,6 +126,7 @@
 .detail input{
     margin-left:0.8rem;
     margin-top: 0.5rem;
+    border: 0;
 }
 .number {
     width: 6.4rem;
@@ -137,6 +138,7 @@
 .number input{
     margin-left:0.8rem;
     margin-top: 0.5rem;
+    border: 0;
 }
 .type{
     width: 6.4rem;
