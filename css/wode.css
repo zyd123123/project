@@ -194,7 +194,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 0.3rem;
+    font-size: 0.4rem;
 }
 .order p{
     margin: 0;
@@ -233,4 +233,7 @@
 }
 .us a{
     color: #000;
+}
+.us a :last-child{
+    margin-left: 4.2rem;
 }

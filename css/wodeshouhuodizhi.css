@@ -14,7 +14,6 @@
     width: 7.47rem;
     height: 0.88rem;
     /* background: #999; */
-    margin: 0 auto;
     position: relative;
 }
 .iconcuowu{
@@ -92,7 +91,7 @@
 .fal{
     width: 9.3rem;
     display: flex;
-    margin-left: -1.8rem;
+    overflow: hidden;
 
 }
 .delate{
