@@ -69,6 +69,8 @@
 .bog .iconfanhui{
     font-size: 0.4rem;
     line-height: 0.89rem;
+    margin-left:0.2rem;
+    color:black;
 }
 .bog .zi{
     margin-left:2.49rem;
@@ -104,38 +106,39 @@
     border-bottom: 0.01rem solid #F5F5F5;
 }
 .top1 .top2{
-    width:2rem;
-    height:2rem;
+    width:1.5rem;
+    height:1.5rem;
     background-color:#ffcb3f;
     border-radius: 1.2rem;
-    margin-top:0.1rem;
+    margin-top:0.4rem;
     position: relative;
+    margin-left:0.4rem;
 }
 .dibu .top1 .top2 img{
-    width:2rem;
-    height:2rem;
+    width:1.5rem;
+    height:1.5rem;
     border-radius: 1.2rem;
 }
 .dibu .top1 .top2 span{
     position: absolute;
-    top:0.7rem;
+    top:0.5rem;
     right:-4.5rem;
     color:#999999;
 }
 .dibu .top1 .top2 i{
     position: absolute;
-    top:0.8rem;
+    top:0.56rem;
     right:-5rem;
 }
 .dibu .top1 .top3{
     width:7.02rem;
     height:0.88rem;
     /* background-color: aquamarine; */
-    margin-top:10px;
+    margin-top:0.3rem;
 }
 .dibu .top1 .top3 .zi3{
     line-height: 0.88rem;
-    margin-left:0.2rem;
+    margin-left:0.5rem;
 }
 .dibu .top1 .top3 .zi4{
     margin-left:3.1rem;
@@ -143,19 +146,23 @@
 }
 .dibu .top1 .top3 .zit{
     float: right;
-    line-height: 0.8rem; 
+    line-height: 0.8rem;
+    margin-right:0.2rem; 
 }
 .dibu .top1 .top3 .zit1{
     float: right;
     line-height: 0.8rem; 
+    margin-right:0.2rem;
 }
 .dibu .top1 .top3 .zit2{
     float: right;
-    line-height: 0.8rem;  
+    line-height: 0.8rem;
+    margin-right:0.2rem;  
 }
 .dibu .top1 .top3 .zit3{
     float: right;
-    line-height: 0.8rem; 
+    line-height: 0.8rem;
+    margin-right:0.2rem; 
 }
 .dibu .top1 .top3 .iconyoujiantou{
     float: right;

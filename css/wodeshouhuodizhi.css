@@ -14,7 +14,6 @@
     width: 7.47rem;
     height: 0.88rem;
     /* background: #999; */
-    margin: 0 auto;
     position: relative;
 }
 .iconcuowu{
@@ -67,6 +66,9 @@
 .name p{
     margin-left:0.5rem;
 }
+.name :last-child{
+    font-size: 0.24rem;
+}
 .type{
     width: 0.66rem;
 	height: 0.4rem;
@@ -74,6 +76,7 @@
     border-radius: 0.04rem;
     margin-left:0.3rem;
     text-align: center;
+    line-height: 0.4rem;
 }
 .edit {
     width: 7rem;
@@ -87,13 +90,15 @@
 }
 .fal{
     width: 9.3rem;
-    margin-left:-2.1rem;
     display: flex;
+    overflow: hidden;
+
 }
 .delate{
     width: 2.3rem;
     height: 1.35rem;
     float: right;
+    
 }
 .box1{
     width: 1.15rem;
