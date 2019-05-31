@@ -37,8 +37,8 @@
     position: relative;
 }
 .topj .topj1{
-    width:5.56rem;
-    height:0.88rem;
+    width:6rem;
+    height:0.6rem;
     background-color: white;
     margin-left:0.1rem;
     border-radius: 0.4rem;
@@ -46,22 +46,22 @@
 }
 .topj input{
     width:4rem;
-    height:0.8rem;
+    /* height:0.6rem; */
     margin-left:0.6rem;
-    margin-top:0.01rem;
+    margin-top:0.12rem;
     border:0;
     outline: none;
 }
 .topj .iconmagnifier{
     position: absolute;
-    top: 0.35rem;
+    top: 0.2rem;
     left: 0.25rem;
-    font-size: 0.18rem;
+    font-size: 0.25rem;
 }
 .topj span{
     float: right;
-    margin-top:-0.7rem;
-    margin-right:1.1rem;
+    margin-top:-0.5rem;
+    margin-right:0.5rem;
     font-size: 0.3rem;
 }
 .box1{
@@ -85,25 +85,39 @@
 .box1 .bor1{
     line-height: 0.9rem;
     margin-left:-3.5rem;
+    font-size: 0.28rem;
 }
 .box1 .small .small2{
     width:1.8rem;
-    height:0.8rem;
+    height:0.5rem;
     background-color: #EFEFEF;
     float: left;
     margin-top:0.9rem;
     border-radius: 0.4rem;
     text-align: center;
-    line-height: 0.8rem;
+    line-height: 0.5rem;
+    margin-left:0.2rem;
+}
+.box1 .small .small2 .za{
+    font-size: 0.2rem;
 }
 .box1 .small .small3{
     margin-left:0.2rem;
 }
-.box1 .small1{
-    margin-top:0.1rem;
+.box1 .small .small3 .zs{
+    font-size: 0.2rem;
 }
 .box1 .small .ziti{
     margin-left:4.2rem;
+}
+.box1 .small .small2 .zd{
+    font-size: 0.2rem;
+}
+.box1 .small .small2 .zf{
+    font-size: 0.2rem;
+}
+.box1 .small .ziti{
+    font-size: 0.28rem;
 }
 .zhongjian{
     width:7.5rem;
@@ -131,17 +145,17 @@
 }
 .zhongjian .yu{
     width:3.5rem;
-    height:5.2rem;
+    height:5.5rem;
     background-color: white;
-    margin-left:0.08rem;
+    margin-left:0.2rem;
 }
 .zhongjian .yu1{
     float: right;
     width:3.5rem;
-    height:5.2rem;
+    height:5.5rem;
     background-color: white;
-    margin-top:-5.7rem;
-    margin-right:0.12rem;
+    margin-top:-5.5rem;
+    margin-right:0.2rem;
 }
 .zhongjian .yu img{
     width:3.5rem;
@@ -164,14 +178,14 @@
 }
 .zhongjian .yu .zi{
     margin-left:0.1rem;
-    line-height: 1.4rem;
+    /* line-height: 1.4rem; */
 }
 .zhongjian .yu .ku{
     width:1.53rem;
     height:0.44rem;
     background-color: #ffcb3f;
     float: right;
-    margin-top:0.5rem;
+    /* margin-top:0.5rem; */
 }
 .zhongjian .yu .ku .iconjiahao{
     line-height: 0.5rem;
@@ -202,14 +216,14 @@
 }
 .zhongjian .yu1 .zi{
     margin-left:0.1rem;
-    line-height: 1.4rem;
+    /* line-height: 1.4rem; */
 }
 .zhongjian .yu1 .ku{
     width:1.53rem;
     height:0.44rem;
     background-color: #ffcb3f;
     float: right;
-    margin-top:0.5rem;
+    /* margin-top:0.5rem; */
 }
 .zhongjian .yu1 .ku .iconjiahao{
     line-height: 0.5rem;
