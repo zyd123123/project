@@ -1,3 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#F8F8F8;
+}
 .top-box{
     width: 7.5rem;
     height: 0.88rem;
@@ -119,117 +126,91 @@
 .box1 .small .ziti{
     font-size: 0.28rem;
 }
-.zhongjian{
-    width:7.5rem;
-    height:6.8rem;
-    background-color: #F8F8F8;
-    margin-top:0.03rem;
-}
-.zhongjian .top4{
-    width:7.5rem;
+.smalli{
+    width:7.02rem;
     height:0.88rem;
-    /* background-color: antiquewhite; */
+    /* background-color: tomato; */
+    margin:0 auto;
+    padding:0.01rem;
 }
-.top4 .bor{
+.smalli .tiao{
+    width:0.08rem;
+    height:0.4rem;
+    background-color:#ffcb3f;
+    margin-top:0.25rem;
     float: left;
-    width: 0.09rem;
-    height: 0.4rem;
-    background-color: #FFCB3F;
-    margin-top: 0.18rem;
 }
-.zhongjian .top4 .ziyi{
+.smalli .ed{
+    font-size: 0.3rem;
+    margin:0.2rem 0  0  0.2rem;
     float: left;
-    margin-top:0.2rem;
-    margin-left:0.09rem;
-    font-size: 0.28rem;
 }
-.zhongjian .yu{
-    width:3.5rem;
-    height:5.5rem;
+.ku{
+    width:7.02rem;
+    height:5.09rem;
+    /* background-color: white;; */
+    margin:0 auto;
+}
+.ku .yu{
+    width:3.24rem;
+    height:5.09rem;
     background-color: white;
+    margin-left:0.1rem;
+    float: left;
+}
+.ku .yu img{
+    width:3.24rem;
+    height:3rem;
+}
+.ku .yu .rt{
+    width:0.5rem;
+    height:0.03rem;
+    background-color: #000000;
     margin-left:0.2rem;
 }
-.zhongjian .yu1{
-    float: right;
-    width:3.5rem;
-    height:5.5rem;
-    background-color: white;
-    margin-top:-5.5rem;
-    margin-right:0.2rem;
+.ku .yu .zi{
+    font-size: 0.2rem;
+    margin-left:0.2rem;
+    margin-top:0.25rem;
 }
-.zhongjian .yu img{
-    width:3.5rem;
-    height:3rem;
+.ku .yu .zi1{
+    font-size: 0.25rem;
+    margin-left:0.2rem;
+    margin-top:0.04rem;
 }
-.zhongjian .yu .xiao{
-    width:0.4rem;
-    height:0.03rem;
-    background-color: black;
-    margin-left:0.1rem;
-    margin-top:0.01rem;
+.ku .yu .bottom{
+    width:3.24rem;
+    height:0.88rem;
+    /* background-color: turquoise; */
+    padding:0.01rem; 
 }
-.zhongjian .yu p{
-    font-size: 0.16rem;
-    margin-left:0.1rem;
-    line-height: 0.6rem;
+.ku .yu .bottom .zi3{
+    float: left;
+    margin-top:0.45rem;
+    margin-left:0.25rem;
 }
-.zhongjian .yu .ziyt{
-    line-height: 0.4rem;
-}
-.zhongjian .yu .zi{
-    margin-left:0.1rem;
-    /* line-height: 1.4rem; */
-}
-.zhongjian .yu .ku{
+.ku .yu .bottom .ui{
     width:1.53rem;
     height:0.44rem;
     background-color: #ffcb3f;
     float: right;
-    /* margin-top:0.5rem; */
+    margin-top:0.4rem;
+    display:flex;
+    justify-content: center;
+    margin-right:0.1rem;
 }
-.zhongjian .yu .ku .iconjiahao{
-    line-height: 0.5rem;
+.ku .yu .bottom .ui .iconjiahao{
+    margin-top:0.08rem;
     color:white;
 }
-.zhongjian .yu .ku .zi1{
-    font-size: 0.16rem;
-    color:white
-}
-.zhongjian .yu1 img{
-    width:3.5rem;
-    height:3rem;
-}
-.zhongjian .yu1 .xiao{
-    width:0.4rem;
-    height:0.03rem;
-    background-color: black;
-    margin-left:0.1rem;
-    margin-top:0.01rem;
-}
-.zhongjian .yu1 p{
-    font-size: 0.16rem;
-    margin-left:0.1rem;
-    line-height: 0.6rem;
-}
-.zhongjian .yu1 .ziyt{
-    line-height: 0.4rem;
-}
-.zhongjian .yu1 .zi{
-    margin-left:0.1rem;
-    /* line-height: 1.4rem; */
-}
-.zhongjian .yu1 .ku{
-    width:1.53rem;
-    height:0.44rem;
-    background-color: #ffcb3f;
-    float: right;
-    /* margin-top:0.5rem; */
-}
-.zhongjian .yu1 .ku .iconjiahao{
-    line-height: 0.5rem;
+.ku .yu .bottom .ui .ww{
+    font-size: 0.25rem;
+    margin-top:0.05rem;
     color:white;
 }
-.zhongjian .yu1 .ku .zi1{
-    font-size: 0.16rem;
-    color:white
+.ku .yu1{
+    float: right; 
+}
+.ku1{
+    margin-top:0.3rem;
 }
