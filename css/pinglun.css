@@ -148,7 +148,7 @@
     font-size:1rem;
     color:#d880d7;
     position:absolute; 
-    top:2.6rem;
+    top:2.59rem;
     left:1.66rem;
 }
 .w .w4{
@@ -350,6 +350,8 @@
     text-align:center;
     color:#727272;
     font-size:0.18rem;
+    margin-top:0.3rem;
+    margin-bottom: 0.5rem;
 }
 .t .t1{
     width:1.5rem;
