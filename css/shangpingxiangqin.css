@@ -269,6 +269,8 @@ a{
     border: 0.02rem solid rgb(199, 199, 199);
     margin-top: 1rem;
     margin-right: 0.7rem;
+    text-align: center;
+    line-height: 0.2rem;
 }
 .topd .yy{
     width: 0.3rem;
@@ -278,6 +280,12 @@ a{
     border: 0.02rem solid rgb(199, 199, 199);
     margin-top: 1rem;
     margin-right: 0.7rem;
+    text-align: center;
+    line-height: 0.2rem;
+}
+.topd .y i{
+    font-size: 0.12rem;
+    color:black;
 }
 .topd .y p{
     font-size: 0.25rem;
