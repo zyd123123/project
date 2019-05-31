@@ -207,7 +207,7 @@
     top:0.25rem;
     left:0.21rem;
 }
-.r input{
+.r textarea{
     width: 6.65rem;
     height: 2.07rem;
     background-color: #F6F6F6;
@@ -215,6 +215,8 @@
     top:0.68rem;
     left:0.19rem;
     border:0;
+    font-size: 0.24rem;
+    outline: 0;
 }
 .r p{
     font-size:0.18rem;
@@ -228,13 +230,6 @@
     position:absolute; 
     bottom:0;
     left:0.22rem;
-}
-.r div{
-    position:absolute; 
-    top:0.89rem;
-    left:0.46rem;
-    font-size:0.24rem;
-    color:#999;
 }
 .t {
     display:block;
