@@ -4,13 +4,18 @@
     position: fixed;
     top: 0;
     background-color:#Fff;
+    z-index: 999;
 }
 .top{
     width: 7.47rem;
     height: 0.88rem;
     /* background: #999; */
     margin: 0 auto;
-    position: relative;
+    position:fixed; 
+    z-index: 999;
+}
+.top i{
+    color:black;
 }
 .iconcuowu{
     position: absolute;
@@ -402,6 +407,7 @@
     position:absolute; 
     right: 0;
     top:4.1rem;
+    margin-right: 0.1rem;
 }
 .u .u1 p .iconadd121{
     font-size:0.16rem;
@@ -465,6 +471,7 @@
     position:absolute; 
     right: 0;
     top:4.1rem;
+    margin-right: 0.1rem;
 }
 .i{
     height:5.08rem;
@@ -538,6 +545,7 @@
     position:absolute; 
     right: 0;
     top:4.1rem;
+    margin-right: 0.1rem;
 }
 .i .i1 p .iconadd121{
     font-size:0.16rem;
@@ -592,6 +600,7 @@
     position:absolute; 
     right: 0;
     top:4.1rem;
+    margin-right: 0.1rem;
 }
 .i .i2 p .iconadd121{
     font-size:0.16rem;

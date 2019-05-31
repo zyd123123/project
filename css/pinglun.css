@@ -12,12 +12,16 @@
     position: relative;
     background-color: #fff;
     margin-left: 0;
-    z-index: 9;
+    z-index: 9;    
+}
+.top i{
+    color:black;
 }
 .iconcuowu{
     position: absolute;
     top: 0.29rem;
     left: 0.2rem;
+    color:black;
 }
 .top img{
     display:block;
@@ -28,6 +32,7 @@
     position: absolute;
     top: 0.35rem;
     right: 0.23rem;
+    color:black;
 }
 .tab-box{
     width: 100%;
@@ -143,7 +148,7 @@
     font-size:1rem;
     color:#d880d7;
     position:absolute; 
-    top:2.6rem;
+    top:2.59rem;
     left:1.66rem;
 }
 .w .w4{
@@ -345,6 +350,8 @@
     text-align:center;
     color:#727272;
     font-size:0.18rem;
+    margin-top:0.3rem;
+    margin-bottom: 0.5rem;
 }
 .t .t1{
     width:1.5rem;

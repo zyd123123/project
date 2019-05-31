@@ -325,6 +325,11 @@ a{
     overflow:hidden;
     overflow:auto;
 }
+.tope::-webkit-scrollbar{
+    width:0;
+    height:0;
+    display:none;
+}
 .tope .san{
     width: 3.1rem;
     height: 5.1rem;
